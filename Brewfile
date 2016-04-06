@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 
 tap homebrew/core
@@ -12,9 +15,6 @@ brew ruby
 
 tap rcmdnk/file
 brew brew-file
-
-tap argon/mas
-brew mas
 
 # App Store applications
 appstore 408980954 GarageBand
