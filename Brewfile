@@ -13,6 +13,7 @@ brew android-sdk
 brew autoconf
 brew bfg
 brew brew-gem
+brew brew-pip
 brew cairo
 brew casperjs
 brew cloog
