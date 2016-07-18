@@ -12,6 +12,7 @@ tap homebrew/core
 brew android-sdk
 brew autoconf
 brew bfg
+brew brew-gem
 brew cairo
 brew casperjs
 brew cloog
