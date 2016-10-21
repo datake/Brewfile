@@ -104,6 +104,7 @@ tap suin/suin
 brew kobito-cli
 
 # App Store applications
+appstore 739483376 BlueHarvest
 appstore 406056744 Evernote
 appstore 409183694 Keynote
 appstore 896624060 Kobito
