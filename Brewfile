@@ -5,6 +5,7 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask atom
 
 tap caskroom/versions
 
