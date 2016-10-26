@@ -6,6 +6,7 @@ brew mas
 
 tap caskroom/cask
 cask atom
+cask eclipse-java
 
 tap caskroom/versions
 
