@@ -13,6 +13,7 @@ tap caskroom/versions
 tap homebrew/core
 brew android-sdk
 brew autoconf
+brew autojump
 brew bfg
 brew brew-gem
 brew brew-pip
