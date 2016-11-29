@@ -7,6 +7,7 @@ brew mas
 tap caskroom/cask
 cask atom
 cask eclipse-java
+cask xquartz
 
 tap caskroom/versions
 
@@ -34,6 +35,7 @@ brew glib
 brew gmp
 brew graphviz
 brew heroku
+brew icu4c
 brew imagemagick
 brew isl
 brew jbig2dec
@@ -55,7 +57,9 @@ brew mpfr
 brew mysql
 brew neo4j
 brew nkf
+brew node-build
 brew node
+brew nodenv
 brew nvm
 brew openssl
 brew pcre
