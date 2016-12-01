@@ -122,6 +122,7 @@ appstore 409201541 Pages
 appstore 907364780 Pomodoro One
 appstore 803453959 Slack
 appstore 886106985 Sunrise Calendar
+appstore 1076860635 Sync
 appstore 425424353 The Unarchiver
 appstore 585829637 Todoist
 appstore 785109225 Xccello
